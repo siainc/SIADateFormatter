@@ -1,0 +1,14 @@
+PODS:
+  - SIADateFormatter (0.1.0)
+
+DEPENDENCIES:
+  - SIADateFormatter (from `../`)
+
+EXTERNAL SOURCES:
+  SIADateFormatter:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SIADateFormatter: 6921631b56362a5e9b452d0b9821714e85491ecb
+
+COCOAPODS: 0.35.0
